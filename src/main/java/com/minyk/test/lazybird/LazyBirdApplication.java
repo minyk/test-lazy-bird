@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestLazyBird {
+public class LazyBirdApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestLazyBird.class, args);
+        SpringApplication.run(LazyBirdApplication.class, args);
     }
 
 }
